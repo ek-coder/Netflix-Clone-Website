@@ -2,7 +2,7 @@
 A simple, non-functional Netflix clone built using **HTML** and **CSS**. This project replicates the Netflix homepage design for learning and practice purposes.  
 
 ## 📸 Preview  
-![Netflix Clone Screenshot](#) *(Add a screenshot link here)*
+![Netflix Clone Screenshot](Preview1.png)
 
 ## 🚀 Features  
 ✅ Responsive design (mobile-friendly)  
