@@ -1,6 +1,9 @@
 # 🎬 Netflix Clone Website  
 A simple, non-functional Netflix clone built using **HTML** and **CSS**. This project replicates the Netflix homepage design for learning and practice purposes.  
 
+## 📸 Preview  
+![Netflix Clone Screenshot](#) *(Add a screenshot link here)*
+
 ## 🚀 Features  
 ✅ Responsive design (mobile-friendly)  
 ✅ Netflix-style homepage UI  
@@ -19,12 +22,12 @@ A simple, non-functional Netflix clone built using **HTML** and **CSS**. This pr
 2. **Open index.html in a browser**
 3. **Enjoy the Netflix UI!**
 
-📌 Note
+## 📌 Note
 This is a static website with no backend functionality. It is created purely for frontend practice.
 
-⭐ Contributing
+## ⭐ Contributing
 Feel free to fork this repository and improve the design!
 
-📜 License
+## 📜 License
 This project is for educational purposes only and is not affiliated with Netflix.
 
