@@ -25,9 +25,6 @@ A simple, non-functional Netflix clone built using **HTML** and **CSS**. This pr
 ## 📌 Note
 This is a static website with no backend functionality. It is created purely for frontend practice.
 
-## ⭐ Contributing
-Feel free to fork this repository and improve the design!
-
 ## 📜 License
 This project is for educational purposes only and is not affiliated with Netflix.
 
